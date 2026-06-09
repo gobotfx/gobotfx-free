@@ -337,7 +337,6 @@ RangeHigh = 2350.0
 ## Changelog
 
 ### v6.6.2
-- Tách bản FREE và PRO riêng biệt
 - Thêm nút toggle +/- thu gọn/mở rộng panel
 - Hiển thị tổng P&L toàn EA ở header
 - Bỏ icon emoji ở nút START/STOP/CLOSE
